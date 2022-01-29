@@ -1,0 +1,1 @@
+A directory watcher for oh my zsh. Hides git from omzsh in repositories for performance reasons.
